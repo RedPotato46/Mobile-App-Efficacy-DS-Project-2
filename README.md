@@ -17,7 +17,7 @@ Do you expect the app’s effect on spending to vary by customers’ characteris
 
 # Project Tasks
 
-## Part I - Data Preparation and Wrangling
+Part I - Data Preparation and Wrangling
 
 Part II: Exploratory Data Analysis
 
