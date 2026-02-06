@@ -21,6 +21,9 @@ Part I - Data Preparation and Wrangling
 
 Part II: Exploratory Data Analysis
 
+The link of Jupyter Notebook is provided above-
+
+
 Univariate Analysis I: Data summary of customers’ characteristics.
 
 Univariate Analysis II: Data summary of customers’ purchase behavior. 
@@ -31,8 +34,6 @@ Part IV: Executive Summary
 
 The link for the Tableau Dashboard is provided above
 - https://public.tableau.com/app/profile/rahul.mahadik8498/viz/storytellingpracticeRM/Story1#1
-
-
 
 
 
