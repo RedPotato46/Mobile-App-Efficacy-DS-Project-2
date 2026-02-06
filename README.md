@@ -22,7 +22,7 @@ Part I - Data Preparation and Wrangling
 Part II: Exploratory Data Analysis
 
 The link of Jupyter Notebook is provided above-
-
+https://github.com/RedPotato46/Mobile-App-Efficacy-DS-Project-2/blob/main/Course_2_Course_Project_Mobile_App_Efficacy_Stub_%2B_Hints_File%20(1).ipynb
 
 Univariate Analysis I: Data summary of customers’ characteristics.
 
